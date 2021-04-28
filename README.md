@@ -1,1 +1,1 @@
-# bootstrap-dnd
+# Bootstrap Drag&Drop
